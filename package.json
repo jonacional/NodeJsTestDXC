@@ -14,7 +14,7 @@
     "check-types": "^10.1.2",
     "express": "^4.17.1",
     "morgan": "^1.9.1",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {
     "nodemon": "^1.19.4"
